@@ -2,16 +2,16 @@
 
 ## Student Information
 
-- Student name:
-- Week:
-- Lab:
-- Date:
+- Student name: Angel Camero
+- Week:8
+- Lab:1
+- Date:10/27/2026
 
 ## AI Use
 
 Did you use an AI tool for this lab?
 
-- [ ] Yes
+- [x] Yes
 - [ ] No
 
 If yes, complete the sections below. If no, write “No AI tool was used” under Summary.
@@ -20,13 +20,13 @@ If yes, complete the sections below. If no, write “No AI tool was used” unde
 
 Examples: GitHub Copilot, ChatGPT, Microsoft Copilot, or another tool.
 
-Tool:
+Tool:Github CoPilot
 
 ## Assistance Requested
 
 Describe what you asked the AI tool to help you understand or troubleshoot.
 
-Response:
+Response: i had an error with the ArimeticException 
 
 ## How I Used the Assistance
 
@@ -44,7 +44,7 @@ Response:
 
 Describe one concept or programming skill you understand better after completing the lab.
 
-Response:
+Response: Error catching 
 
 ## Summary
 
